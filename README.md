@@ -1,6 +1,4 @@
 
----
-
 <h1 align="center" style="font-family: 'Poppins', sans-serif; color: #3498DB; letter-spacing: 1px; padding-bottom: 10px; border-bottom: 2px solid #3498DB; width: 60%; margin: auto;">
   Welcome to My GitHub!
 </h1>
@@ -113,5 +111,3 @@ ats.herokuapp.com/?user=ATCHAYA200&theme=default" alt="GitHub Streak" />
 <div align="center" style="font-family: 'Poppins', sans-serif; color: #BDC3C7; margin-top: 20px;">
   <i>Made with ❤️ by Atchaya V</i>
 </div>
-
----
