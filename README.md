@@ -89,11 +89,11 @@
 <h2 style="font-family: 'Poppins', sans-serif; color: #333; text-align: center; margin-top: 40px;">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATCHAYA200&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATCHAYA200&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atchaya-Vijayakumar&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atchaya-Vijayakumar&layout=compact&theme=default" alt="Top Languages" />
   <img src="https://github-readme-streak-st
 
-ats.herokuapp.com/?user=ATCHAYA200&theme=default" alt="GitHub Streak" />
+ats.herokuapp.com/?user=Atchaya-Vijayakumar&theme=default" alt="GitHub Streak" />
 </div>
 
 ---
