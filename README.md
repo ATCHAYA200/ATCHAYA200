@@ -18,13 +18,13 @@
   <img alt="Followers" src="https://img.shields.io/github/followers/ATCHAYA200?label=Followers&style=flat&color=3498DB" title="Followers" />
   <img alt="Stars" src="https://img.shields.io/github/stars/ATCHAYA200?label=Stars&style=flat&color=3498DB" title="GitHub Stars" />
   <a href="https://github.com/sponsors/ATCHAYA200" title="Sponsor Me">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor" />
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=Support&logo=GitHub&color=%23fe8e86" alt="Sponsor" />
   </a>
 </div>
 
 ---
 
-<h2>👩‍💻 About Me</h2>
+<h2>About Me</h2>
 
 - **Working on:** <b>DeepSecure-AI</b> - AI project on privacy-enhancing technologies.
 - **Learning:** <b>Advanced AI Techniques</b> for Data Science.
@@ -34,7 +34,7 @@
 
 ---
 
-<h2>🌐 Connect with Me</h2>
+<h2>Connect with Me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/divith-s" target="_blank">
@@ -50,7 +50,7 @@
 
 ---
 
-<h2>🛠️ Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -74,7 +74,7 @@
 
 ---
 
-<h2>📂 My Projects</h2>
+<h2>My Projects</h2>
 
 <div align="center">
   <a href="https://github.com/ATCHAYA200/DeepSecure-AI" target="_blank">
@@ -90,7 +90,7 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ATCHAYA200&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -100,18 +100,18 @@
 
 ---
 
-<h2>☕ Support My Work</h2>
+<h2>Support My Work</h2>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/ninjaonsteroids">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=ninjaonsteroids&button_colour=FFDD00&font_colour=000000&font_family=Arial" alt="Buy me a coffee"/>
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=ninjaonsteroids&button_colour=FFDD00&font_colour=000000&font_family=Arial" alt="Buy me a coffee" />
   </a>
 </div>
 
 ---
 
 <div align="center" style="font-family: 'Poppins', sans-serif; color: #BDC3C7;">
-  <i>Made with <span style="color: #3498DB;">♥</span> by Atchaya V</i>
+  <i>Made with dedication by Atchaya V</i>
 </div>
 
 ---
